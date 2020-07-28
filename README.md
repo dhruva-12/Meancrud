@@ -2,4 +2,4 @@
 
 
 nodemon server.js to run the file
-and mongod to start the database
+and mongod 
