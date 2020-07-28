@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mean-stack-crud-app"
+    }
+  },
+  "defaultProject": "mean-stack-crud-app",
+  "cli": {
+    "analytics": "c26636a9-9c8f-4529-8d73-46dd937f3c8c"
+  }
 }
